@@ -20,7 +20,7 @@
    
   it will be $193,563,000.00
 
-  # Data Frame Descriprions
+  # Data Frame Descriptions
   
 
   <img width="225" alt="Screen Shot 2023-08-29 at 11 53 17 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/261c26ac-17ad-4243-9d58-1054fc99dad8">
@@ -31,5 +31,9 @@
   <img width="192" alt="Screen Shot 2023-08-29 at 11 56 41 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/c61f7ebc-173b-4831-bac1-7a71329929c6">
 
   However, was needed a sample of  4720 from the datase to run the teste.
+
+# Coclusion
+
+<img width="368" alt="Screen Shot 2023-08-29 at 12 03 25 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/82999ffd-1d8c-41e1-9886-47ae5f667d3d">
 
 
