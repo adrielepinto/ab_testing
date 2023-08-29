@@ -21,9 +21,12 @@
   it will be $193,563,000.00
 
   # Data Frame Descriprions
+  
 
   <img width="225" alt="Screen Shot 2023-08-29 at 11 53 17 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/261c26ac-17ad-4243-9d58-1054fc99dad8">
+  
   This dataset has 294478 lines and 5 columns.
+  
 
   <img width="192" alt="Screen Shot 2023-08-29 at 11 56 41 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/c61f7ebc-173b-4831-bac1-7a71329929c6">
 
