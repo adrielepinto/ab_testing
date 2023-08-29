@@ -41,9 +41,13 @@ A failed to reject the null hypothesis, that mean, the null hypothesis is true. 
 
 
 
+
 <img width="368" alt="Screen Shot 2023-08-29 at 12 03 25 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/82999ffd-1d8c-41e1-9886-47ae5f667d3d">
 
+
 However, in a hypothetical scenario, where the new page conversion actually went from 13% to 15%, the company would have a lift of $25,803,000.00 in the company's revenue.
+
+
 
 # 2.0 P A Bound
 
