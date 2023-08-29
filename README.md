@@ -30,6 +30,6 @@
 
   <img width="192" alt="Screen Shot 2023-08-29 at 11 56 41 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/c61f7ebc-173b-4831-bac1-7a71329929c6">
 
-  However, was needed just 4720 of sample from the datase.
+  However, was needed a sample of  4720 from the datase to run the teste.
 
 
