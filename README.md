@@ -45,3 +45,5 @@ A failed to reject the null hypothesis, that mean, the null hypothesis is true. 
 
 However, in a hypothetical scenario, where the new page conversion actually went from 13% to 15%, the company would have a lift of $25,803,000.00 in the company's revenue.
 
+# 2.0 P A Bound
+
