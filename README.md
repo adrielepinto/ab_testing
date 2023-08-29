@@ -8,14 +8,14 @@
  
 # Challenge:
 
-- 1. Is the conversion of the new page really better than the old one?
+1. Is the conversion of the new page really better than the old one?
  
     The new page is 2.85% better thna old one.
 
-- 2. What potential sales figures can the new page bring?
+ 2. What potential sales figures can the new page bring?
  
  The new page can bring $25,803,000.00 of sales.
 
- - 3. What is the total revenue from the sale of the new page's bluetooth keyboard?
-  . 
+3. What is the total revenue from the sale of the new page's bluetooth keyboard?
+   
  it will be $193,563,000.00
