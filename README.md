@@ -58,3 +58,14 @@ Electronic House is a company that sells products online. The product director w
   
   What is the best payment method? Manual or automatic?
 
+  # Data Frame Descriptions
+
+
+  <img width="256" alt="Screen Shot 2023-08-30 at 8 36 26 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/98392862-5bba-4b20-b291-378093d20b50">
+
+
+This dataset has 45883 lines and 8 columns.
+
+ <img width="331" alt="Screen Shot 2023-08-30 at 8 40 47 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/3cf9fae3-037c-4fc4-bafa-fcd6fda87bde">
+
+  However, was needed a sample of 6588 from the datase to run the teste.
