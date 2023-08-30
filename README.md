@@ -117,3 +117,6 @@ ISketch company manufactures software focused on 3D development of civil constru
 The Marketing team expects the Data Science team to complete the test in less than 7 days.
 
  # Solution Infrastructure
+
+ <img width="624" alt="Screen Shot 2023-08-30 at 12 53 06 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/bb2acd29-4a54-4983-b888-6806630170db">
+
