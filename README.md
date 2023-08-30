@@ -74,3 +74,10 @@ This dataset has 45883 lines and 8 columns.
 
  Analyzing the data, was possible to verify that the purchases don't have a distorting difference between group A and group B. The behavior of groups are very similar to each other.
 
+
+# Conclusion
+
+<img width="842" alt="Screen Shot 2023-08-30 at 9 28 44 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/ddef2d86-0eff-444f-b6b4-b7bf73cfdfe3">
+
+
+After run the tests, it is concluded that the design team needs to rethink the strategy of the automatic filling device.
