@@ -91,3 +91,7 @@ Looking at the click-through rates, the IT team wondered why interest category c
 Is any of the conversions really better than the current one? What would the name of the variation be?
 
  # Data Frame Descriptions
+ <img width="867" alt="Screen Shot 2023-08-30 at 9 56 23 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/e2d310de-8749-464e-aafe-fa19eddf67be">
+
+
+ Data collection was done according to information from each page.
