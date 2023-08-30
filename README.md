@@ -51,3 +51,10 @@ However, in a hypothetical scenario, where the new page conversion actually went
 
 # 2.0 P A Bound
 
+Electronic House is a company that sells products online. The product director would like to develop a new way of filling out credit cards that isn't done manually. A solution was delivered where 90% of payments were filled in automatically. However, the design team would like to measure the effectiveness of the new product, to conclude whether the new payment method was really better than the old one.
+  The two pages were put online by someone, and a label was assigned to each customer, showing which page the customer was viewing.
+
+  # Challenge:
+  
+  What is the best payment method? Manual or automatic?
+
