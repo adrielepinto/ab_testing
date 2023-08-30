@@ -33,7 +33,7 @@ Wasn't impossible to see the effect on the new page
 
   However, was needed a sample of  4720 from the datase to run the teste.
 
-# Coclusion
+# Conclusion
 
 <img width="460" alt="Screen Shot 2023-08-29 at 12 33 17 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/e949c732-3d5c-4e52-b225-ca0ee76cc21d">
 
