@@ -69,3 +69,8 @@ This dataset has 45883 lines and 8 columns.
  <img width="331" alt="Screen Shot 2023-08-30 at 8 40 47 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/3cf9fae3-037c-4fc4-bafa-fcd6fda87bde">
 
   However, was needed a sample of 6588 from the datase to run the teste.
+
+  <img width="844" alt="Screen Shot 2023-08-30 at 8 55 21 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/01ef52a3-f698-4c58-8298-aed438429eee">
+
+ Analyzing the data, was possible to verify that the purchases don't have a distorting difference between group A and group B.
+
