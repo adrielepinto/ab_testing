@@ -1,4 +1,4 @@
-# A/B Test
+# A/B Testing
 
 ![image](https://user-images.githubusercontent.com/97919969/186538073-7365c477-0243-4f16-8ed5-200ffe2a6411.png)
 
@@ -82,5 +82,12 @@ This dataset has 45883 lines and 8 columns.
 
 After run the tests, it is concluded that the design team needs to rethink the strategy of the automatic filling device.
 
-# A | B | N Testing
+# 3.0  A | B | N Testing
+The Montana library has a page that has a university banner, a search bar, three main access categories and a sidebar on the right. During the period from April 3, 2013 to April 10, 2013, the library 'home' page received 10,819 visitors. Analyzing the page access data, the IT team and the University noticed a big difference between the accesses of the page category. The click-through rate for 'Find' was 35%, 'Request' was 6%, and 'Interect' was 2%.
+Looking at the click-through rates, the IT team wondered why interest category conversion was so low. Therefore, an A/B/N test needs to be defined to validate which of the category variations is most attractive to students.
 
+# Challenge:
+
+Is any of the conversions really better than the current one? What would the name of the variation be?
+
+ # Data Frame Descriptions
