@@ -95,3 +95,14 @@ Is any of the conversions really better than the current one? What would the nam
 
 
  Data collection was done according to information from each page.
+
+ # Conclusion
+
+ <img width="839" alt="Screen Shot 2023-08-30 at 11 48 15 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/3e93610e-ecca-4351-942b-2e1805d4c399">
+
+From a statistical point of view, the results of the tests showed that the Connect, Services and Help pages didn't have any differ from each other. The  IT team can use any of them, however it is recommended to use them according to the lowest P_Value of each page.
+
+## Interact x Connect == There is a correlation = p_value == 5.3676772349808135
+## Interact x Service == There is a correlation = p_value == 1.798089447385411
+## Interact x Help== There is a correlation  = p_value == 0.0031030587017400212
+
