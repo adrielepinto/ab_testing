@@ -72,5 +72,5 @@ This dataset has 45883 lines and 8 columns.
 
   <img width="844" alt="Screen Shot 2023-08-30 at 8 55 21 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/01ef52a3-f698-4c58-8298-aed438429eee">
 
- Analyzing the data, was possible to verify that the purchases don't have a distorting difference between group A and group B.
+ Analyzing the data, was possible to verify that the purchases don't have a distorting difference between group A and group B. The behavior of groups are very similar to each other.
 
