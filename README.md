@@ -100,9 +100,20 @@ Is any of the conversions really better than the current one? What would the nam
 
  <img width="839" alt="Screen Shot 2023-08-30 at 11 48 15 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/3e93610e-ecca-4351-942b-2e1805d4c399">
 
+
 From a statistical point of view, the results of the tests showed that the Connect, Services and Help pages didn't have any differ from each other. The  IT team can use any of them, however it is recommended to use them according to the lowest P_Value of each page.
 
 ## Interact x Connect == There is a correlation = p_value == 5.3676772349808135
 ## Interact x Service == There is a correlation = p_value == 1.798089447385411
 ## Interact x Help== There is a correlation  = p_value == 0.0031030587017400212
 
+
+# 4.0 A | B Bayesian Test
+
+ISketch company manufactures software focused on 3D development of civil construction projects. To acquire customers, the company uses email capture in exchange for a Newsletter with weekly content on civil construction. The Marketing coordinator asked the Designer team to create a new page with a modification of the red 'Sign-Up' button that has the blue button. Therefore, the company's data scientist team needs to test the effectiveness of the button's color.
+
+# Challenge:
+
+The Marketing team expects the Data Science team to complete the test in less than 7 days.
+
+ # Solution Infrastructure
