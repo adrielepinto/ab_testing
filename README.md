@@ -131,3 +131,11 @@ In a simple structure, two HTML pages will be exposed on the internet. A Reinfor
 - The graph on the left shows that the risk associated with choosing page B, saying it is better than A is less than 0.01%.
   
 Given that, we can end the experiment by saying that page B with the red button, is better than page A with the blue button.
+
+# Experiment in Production
+
+
+
+https://github.com/adrielepinto/ab_testing/assets/97919969/142c8e6a-05d9-42a0-8462-d9a2fcc1d6b5
+
+
