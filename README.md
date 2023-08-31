@@ -174,3 +174,7 @@ https://github.com/adrielepinto/ab_testing/assets/97919969/6150d43b-1338-401d-a2
 - Orange line = The risc of choosing A;
 - Green line  = The risc of choosing B;
 
+
+<img width="421" alt="Screen Shot 2023-08-31 at 5 59 58 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/9b26cc04-de58-4982-b44f-3a778db5eb16">
+<img width="421" alt="Screen Shot 2023-08-31 at 5 59 40 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/3d7bf11c-fecf-480d-a1ee-bc7cf914c98e">
+
