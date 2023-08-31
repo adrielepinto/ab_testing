@@ -160,6 +160,7 @@ A person enters a casino to have fun with slot machines. Each machine has a diff
 In the first structure, there are two pages that will receive visitors, where data will be collected for a certain time of the experiment.
 
 <img width="535" alt="Screen Shot 2023-08-31 at 2 39 04 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/e69d5839-21ab-4bd1-aacd-31ed1022304d">
+
  On the other hand, there are two pages that depending on the clicks that will happen, the data will be filled. The agent will be responsible for showing the pages interactively to the visitor. However, the agent will show the winning page more times, while the losing page less times, in order to maximize earnings.
 
 
