@@ -126,3 +126,6 @@ In a simple structure, two HTML pages will be exposed on the internet. A Reinfor
 
 <img width="1106" alt="Screen Shot 2023-08-31 at 10 32 59 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/a7a505df-3483-4250-9dad-210c2f2f026c">
 
+
+- The graph on the right shows that on day 25 the probability of page B being better than page A is approximately 97%.
+- The graph on the left shows that the risk associated with choosing page B, saying it is better than A is less than 0.01%.
