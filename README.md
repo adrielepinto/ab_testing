@@ -139,3 +139,7 @@ Given that, we can end the experiment by saying that page B with the red button,
 https://github.com/adrielepinto/ab_testing/assets/97919969/142c8e6a-05d9-42a0-8462-d9a2fcc1d6b5
 
 
+
+https://github.com/adrielepinto/ab_testing/assets/97919969/6150d43b-1338-401d-a2ca-d41b3fc118ec
+
+
