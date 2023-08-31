@@ -138,14 +138,6 @@ Given that, we can end the experiment by saying that page B with the red button,
 
 
 
-https://github.com/adrielepinto/ab_testing/assets/97919969/303952fe-f3ca-40b3-a340-527c861db7c4
-
-
-
-
-
-https://github.com/adrielepinto/ab_testing/assets/97919969/6150d43b-1338-401d-a2ca-d41b3fc118ec
-
 # 5.0 Mult Armed bandit - MAB 
 
 A person enters a casino to have fun with slot machines. Each machine has a different probability of return totally unknown, some have higher chances of winnings while others smaller. The player allocates some machines next to each other, and after a few rounds the player needs to make a decision: he continues playing with the machines that had the highest return or he can choose random machines to play.
@@ -162,4 +154,19 @@ In the first structure, there are two pages that will receive visitors, where da
 <img width="535" alt="Screen Shot 2023-08-31 at 2 39 04 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/e69d5839-21ab-4bd1-aacd-31ed1022304d">
 
  On the other hand, there are two pages that, according to the clicks that will happen, the data will be filled. The agent will be responsible for showing the pages interactively to the visitor, however, the winning page more often, while the losing page less often, in order to maximize earnings.
+
+
+# Experiment in Production
+
+
+
+
+
+https://github.com/adrielepinto/ab_testing/assets/97919969/303952fe-f3ca-40b3-a340-527c861db7c4
+
+
+
+
+
+https://github.com/adrielepinto/ab_testing/assets/97919969/6150d43b-1338-401d-a2ca-d41b3fc118ec
 
