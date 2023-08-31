@@ -124,5 +124,5 @@ In a simple structure, two HTML pages will be exposed on the internet. A Reinfor
 
 ## A | B Bayesian
 
-<img width="1064" alt="Screen Shot 2023-08-31 at 9 05 37 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/64b59175-4f67-482e-8b06-98f1a2c2ca9c">
+<img width="1106" alt="Screen Shot 2023-08-31 at 10 32 59 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/a7a505df-3483-4250-9dad-210c2f2f026c">
 
