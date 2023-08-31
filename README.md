@@ -157,6 +157,8 @@ A person enters a casino to have fun with slot machines. Each machine has a diff
 
    <img width="833" alt="Screen Shot 2023-08-31 at 2 07 19 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/cb844124-b1e5-4b8a-8553-70bc5df28446">
 
+In the first structure, there are two pages that will receive visitors, where data will be collected for a certain time of the experiment.
+
 <img width="512" alt="Screen Shot 2023-08-31 at 2 16 14 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/c9e0e4ea-3676-4a9a-908b-b7831fb00da9">
 
-In the first structure, there are two pages that will receive visitors, where data will be collected for a certain time of the experiment.
+
