@@ -146,4 +146,10 @@ https://github.com/adrielepinto/ab_testing/assets/97919969/303952fe-f3ca-40b3-a3
 
 https://github.com/adrielepinto/ab_testing/assets/97919969/6150d43b-1338-401d-a2ca-d41b3fc118ec
 
+# 5.0 Mult Armed bandit - MAB 
+
+A person enters a casino to have fun with slot machines. Each machine has a different probability of return totally unknown, some have higher chances of winnings while others smaller. The player allocates some machines next to each other, and after a few rounds the player needs to make a decision: he continues playing with the machines that had the highest return or he can choose random machines to play.
+
+# Challenge:
+ How the player can make the best decision in order to maximize the final result?
 
