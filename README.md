@@ -155,6 +155,8 @@ In the first structure, there are two pages that will receive visitors, where da
 
  On the other hand, there are two pages that, according to the clicks that will happen, the data will be filled. The agent will be responsible for showing the pages interactively to the visitor, however, the winning page more often, while the losing page less often, in order to maximize earnings.
 
+# Descriptions
+Para melhorar a tomada de decisao, foi feito uma simulacao de  5 Agentes, Random, Omnisciente, Greedy, Epson Greedy and Thampson. Agente policy means the Agent constantly performs the action that is believed to yield the highest expected reward.
 
 # Experiment in Production
 
