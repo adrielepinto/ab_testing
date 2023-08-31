@@ -140,10 +140,10 @@ Given that, we can end the experiment by saying that page B with the red button,
 
 # 5.0 Mult Armed bandit - MAB 
 
-A person enters a casino to have fun with slot machines. Each machine has a different probability of return totally unknown, some have higher chances of winnings while others smaller. The player allocates some machines next to each other, and after a few rounds the player needs to make a decision: he continues playing with the machines that had the highest return or he can choose random machines to play.
+The company's Design team needs to choose between 2 or more options for web pages to be displayed to site visitors. Each page option has a different and unknown conversion rate and conversion probability distribution.
 
 # Challenge:
- How the player can make the best decision in order to maximize the final result?
+ The objective of choosing the option which one obtained the most conversion (reward).
 
    # Solution Infrastructure
 
