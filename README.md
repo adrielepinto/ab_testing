@@ -170,3 +170,7 @@ https://github.com/adrielepinto/ab_testing/assets/97919969/303952fe-f3ca-40b3-a3
 
 https://github.com/adrielepinto/ab_testing/assets/97919969/6150d43b-1338-401d-a2ca-d41b3fc118ec
 
+- Blue line   =  The probability of B be better than A;
+- Orange line = The risc of choosing A;
+- Green line  = The risc of choosing B;
+
