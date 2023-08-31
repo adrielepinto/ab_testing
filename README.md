@@ -153,3 +153,8 @@ A person enters a casino to have fun with slot machines. Each machine has a diff
 # Challenge:
  How the player can make the best decision in order to maximize the final result?
 
+   # Solution Infrastructure
+
+   <img width="833" alt="Screen Shot 2023-08-31 at 2 07 19 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/cb844124-b1e5-4b8a-8553-70bc5df28446">
+
+
