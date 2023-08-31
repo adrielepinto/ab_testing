@@ -121,3 +121,8 @@ The Marketing team expects the Data Science team to complete the test in less th
  <img width="577" alt="Screen Shot 2023-08-30 at 1 11 52 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/c1615ba2-556a-4597-ba41-7a2ab5ff5913">
 
 In a simple structure, two HTML pages will be exposed on the internet. A Reinforcement Learning agent ( App.py ) will be responsible for choosing which of the two pages to show, the page with the Blue rumor or the page with the red button, according to the determined criteria. However, it is necessary to choose the page that maximizes the return for the company, simulating that the chosen page was shown to the consumer/client, and the probability of that client leaving the email to receive information will be calculated. 
+
+## A | B Bayesian
+
+<img width="1064" alt="Screen Shot 2023-08-31 at 9 05 37 AM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/64b59175-4f67-482e-8b06-98f1a2c2ca9c">
+
