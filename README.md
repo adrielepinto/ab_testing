@@ -129,3 +129,5 @@ In a simple structure, two HTML pages will be exposed on the internet. A Reinfor
 
 - The graph on the right shows that on day 25 the probability of page B being better than page A is approximately 97%.
 - The graph on the left shows that the risk associated with choosing page B, saying it is better than A is less than 0.01%.
+  
+Given that, we can end the experiment by saying that page B with the red button, is better than page A with the blue button.
