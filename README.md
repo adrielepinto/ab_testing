@@ -164,8 +164,6 @@ To improve decision making, a simulation of 5 Agents was made, Random, Omniscien
 
 
 
-
-
 https://github.com/adrielepinto/ab_testing/assets/97919969/303952fe-f3ca-40b3-a340-527c861db7c4
 
 
@@ -179,6 +177,4 @@ https://github.com/adrielepinto/ab_testing/assets/97919969/6150d43b-1338-401d-a2
 - Green line  = The risc of choosing B;
 
 
-<img width="421" alt="Screen Shot 2023-08-31 at 5 59 58 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/9b26cc04-de58-4982-b44f-3a778db5eb16">
-<img width="421" alt="Screen Shot 2023-08-31 at 5 59 40 PM" src="https://github.com/adrielepinto/ab_testing/assets/97919969/3d7bf11c-fecf-480d-a1ee-bc7cf914c98e">
 
