@@ -136,6 +136,14 @@ Given that, we can end the experiment by saying that page B with the red button,
 
 
 
+https://github.com/adrielepinto/ab_testing/assets/97919969/ae0794e4-fa77-49ba-b929-69e72dcac147
+
+
+
+https://github.com/adrielepinto/ab_testing/assets/97919969/7ba7301f-51ef-498e-84c3-87b7ec27eef3
+
+
+
 
 
 # 5.0 Mult Armed bandit - MAB 
